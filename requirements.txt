@@ -1,2 +1,2 @@
 mediapipe==0.10.35
-opencv-contrib-python==5.0.0.93
+opencv-contrib-python==4.12.0.88
